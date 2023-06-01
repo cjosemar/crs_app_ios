@@ -1,0 +1,19 @@
+{
+	"appId": "com.inizio.carrepair",
+	"appName": "Car Repair System",
+	"webDir": "www",
+	"plugins": {
+		"PushNotifications": {
+			"presentationOptions": [
+				"badge",
+				"sound",
+				"alert"
+			]
+		}
+	},
+	"server": {
+		"allowNavigation": [
+			"carrepairsystem.eu"
+		]
+	}
+}

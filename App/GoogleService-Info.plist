@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>738575050165-6ci3nrqomt1j7osjrno018g8vd2sv018.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.738575050165-6ci3nrqomt1j7osjrno018g8vd2sv018</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqqkrpNOVwFwAs5ohYuP1e9ycyhCyu9tM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>738575050165</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.inizio.carrepair</string>
+	<key>PROJECT_ID</key>
+	<string>car-repair-455e2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>car-repair-455e2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:738575050165:ios:0c958b4766d94a5ca0a5fc</string>
+</dict>
+</plist>
